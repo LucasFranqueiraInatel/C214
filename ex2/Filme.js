@@ -30,7 +30,7 @@ class Filme {
     }
 }
 
-module.exports = Filme; // Exporta a classe Filme para que ela possa ser usada em outros arquivos
+module.exports = Filme;
 
 
 // const filme1 = new Filme("InterEstrelar", 2010, "Ficção Científica", 148);

@@ -1,5 +1,5 @@
-const Filme = require('./Filme'); // Importa a classe Filme
-const prompt = require('prompt-sync')({ sigint: true }); // Se você estiver usando prompt-sync
+const Filme = require('./Filme');
+const prompt = require('prompt-sync')({ sigint: true }); 
 
 
 const filmes = [];
