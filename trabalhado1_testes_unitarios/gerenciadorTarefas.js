@@ -15,6 +15,7 @@ function exibirMenu() {
 }
 
 function adicionarTarefa() {
+    
     const titulo = readline.question('Titulo da tarefa: ');
     const descricao = readline.question('Descricao da tarefa: ');
 
