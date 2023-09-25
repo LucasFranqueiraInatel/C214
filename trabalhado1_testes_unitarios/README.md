@@ -31,3 +31,13 @@ A aplicação possui testes unitários escritos usando a biblioteca chai. Para e
 
 1. Se você ainda não instalou as dependências, execute `npm install`.
 2. Rode os testes com `npm test`.
+
+## Integrantes
+
++ Lucas Franqueira Carneiro Fonseca 1734 GEC
++ Joao Pedro Andrade Moreira  1723 GEC
++ Gabriel Teodoro Vilas Boas 1707 GEC
+
+## Link do Video
+
+[Video](https://drive.google.com/drive/folders/11u4UKCG06vlQ0YIJd4Mdo6Y3_jEkTszH)
