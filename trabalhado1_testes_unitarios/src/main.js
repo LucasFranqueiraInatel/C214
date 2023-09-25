@@ -1,5 +1,5 @@
 const readline = require('readline');
-const { Task, TaskManager } = require('./taskManager'); // Supondo que o código anterior esteja salvo em um arquivo chamado 'taskManager.js'
+const { Task, TaskManager } = require('./taskManager');
 
 const rl = readline.createInterface({
   input: process.stdin,
