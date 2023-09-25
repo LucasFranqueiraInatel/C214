@@ -16,7 +16,7 @@ O Gerenciador de Tarefas é uma aplicação simples de linha de comando para ger
 2. Clone o repositório.
 3. Navegue até a pasta do projeto via terminal.
 4. Execute `npm install` para instalar as dependências.
-5. Execute o programa com o comando node main.js.
+5. Execute o programa com o comando `node main.js`.
 
 
 ## Estrutura de arquivos
